@@ -7,4 +7,4 @@ const append = ["Milo", "Otis", "Garfield"];
 
 
 
-append 
+append.push ["Odie"]
